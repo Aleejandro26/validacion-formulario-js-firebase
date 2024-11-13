@@ -1,5 +1,5 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyC-TPpeaAZJikoZe8tTMGyhJWOzdm5uM20",
+    apiKey: "",
     authDomain: "datos-de-formulario-2d95a.firebaseapp.com",
     projectId: "datos-de-formulario-2d95a",
     storageBucket: "datos-de-formulario-2d95a.firebasestorage.app",
